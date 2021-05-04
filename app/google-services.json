@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "154380055273",
+    "project_id": "prodigyhealth-7b07b",
+    "storage_bucket": "prodigyhealth-7b07b.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:154380055273:android:1d772b5888c741c3543678",
+        "android_client_info": {
+          "package_name": "www.rubyalesi.prodigyhealth"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "154380055273-2rn7gm2itmuvbs76i6vjs8rakaod5gp6.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCzWPbZ6Xmlgs7bjrz64J0oTlikyzZN8NI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "154380055273-2rn7gm2itmuvbs76i6vjs8rakaod5gp6.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

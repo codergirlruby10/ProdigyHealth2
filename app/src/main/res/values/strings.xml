@@ -1,0 +1,21 @@
+<resources>
+    <string name="app_name">ProdigyHealth</string>
+    <string name="Log_Period">Log Period</string>
+    <string name="log_in">Log In</string>
+    <string name="button_Log_Period">Log Period</string>
+    <string name="vaginal_Health">Vaginal Health</string>
+    <string name="Health_and_Fitness">Health and Fitness</string>
+    <string name="log_Period">Log Period</string>
+    <string name="period_log_page">period log page</string>
+    <string name="user_profile_page">User profile page</string>
+    <string name="vaginalhealth">vaginalHealth</string>
+    <string name="title_activity_health_and_fitness">healthAndFitness</string>
+    <!--
+    This string is used for square devices and overridden by hello_world in
+    values-round/strings.xml for round devices.
+    -->
+    <string name="hello_world">Hello Square World!</string>
+    <string name="reproductive_health">Reproductive health</string>
+    <string name="period_calendar">Period Calendar</string>
+    <string name="what_if_you_feel_a_lump">What if you feel a lump?</string>
+</resources>

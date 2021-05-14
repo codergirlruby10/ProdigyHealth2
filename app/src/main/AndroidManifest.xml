@@ -15,7 +15,9 @@
         android:roundIcon="@mipmap/ic_launcher_round"
         android:supportsRtl="true"
         android:theme="@style/Theme.ProdigyHealth">
-        <activity android:name=".periodCalendar"></activity>
+        <activity android:name=".periodCalendar">
+
+        </activity>
         <activity android:name=".reproductiveHealth" />
         <activity
             android:name=".MainActivity"
